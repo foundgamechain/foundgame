@@ -3,7 +3,7 @@ V1.01
 # 基于区块链技术去中心化的一站式游戏分享平台
 
 
-<img class="center" src="http://ww1.sinaimg.cn/large/62673895ly1fgwq3i8j8qj207u07ut8s.jpg">
+<img class="center" src="http://ww1.sinaimg.cn/large/62673895ly1fgwrwygkumj207u07uq37.jpg">
 
 # **趣创游FoundGame**
 
