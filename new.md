@@ -1,4 +1,4 @@
-<img class="center" src="http://ww1.sinaimg.cn/large/62673895ly1fgwq3i8j8qj207u07ut8s.jpg">
+![](http://ww1.sinaimg.cn/large/62673895ly1fgwq3i8j8qj207u07ut8s.jpg)
 
 # 基于区块链技术去中心化的一站式游戏分享平台
 
